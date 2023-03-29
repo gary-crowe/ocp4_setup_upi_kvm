@@ -1,0 +1,18 @@
+site_name: KVM install of OCP
+site_url: https://github.com/gary-crowe/ocp4_setup_upi_kvm
+theme:
+  name: readthedocs
+  palette:
+    scheme: default
+    primary: black
+    font:
+      text: IBM Plex Sans
+      code: IBM Plex Mono
+nav:
+  - Home: 'index.md'
+  - 'Argo CD':
+     - Installtion: install.md
+  - Additions:
+     - Shutdown: shutdown.md
+
+copyright: Copyright (c) 2023 Go Red (Comrades) LTD
