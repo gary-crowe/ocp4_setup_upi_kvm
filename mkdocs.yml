@@ -10,8 +10,6 @@ theme:
       code: IBM Plex Mono
 nav:
   - Home: 'index.md'
-  - 'Argo CD':
-     - Installtion: install.md
   - Additions:
      - Shutdown: shutdown.md
 
